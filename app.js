@@ -5,3 +5,5 @@ function writeName(coolName) {
 }
 
 writeName("Alex");
+
+writeName("... och Alexander!");
