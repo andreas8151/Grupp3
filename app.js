@@ -1,11 +1,8 @@
-
 function writeName(coolName) {
   console.log(coolName);
 }
 
 writeName("Alex");
-
-writeName("... och Alexander!");
 
 
 let a = Math.floor(Math.random() * 2) + 1;
@@ -18,4 +15,3 @@ switch (a) {
     require("./app3");
     break;
 }
-
